@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Pedro and I'm a back-end developer from Brazil. I'm looking for my first job.</p>
+<p align="left">My name is Pedro and I'm a back-end developer from Brazil.</p>
 
 ###
 
