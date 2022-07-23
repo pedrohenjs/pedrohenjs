@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Pedro and I'm a back-end developer from Brazil.</p>
+<p align="left">Sou um desenvolverdor back-end do Brasil. Atualmente trabalho em meus próprios projetos, a fim de aprimorar minhas habilidades em desenvolvimento de softwares. Além disso, busco contribuir em projetos open-surce, para aplicar meu conhecimento na resolução de diferentes problemas e expandir minha capacidade analítica.</p>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2022</p>
+<p align="left"> 🖥️ Amante de teclogia, 🎮 Amante de games e 🤘 Rockeiro! <br> Gosto de bater um papo sobre o mundo nerd e sobre música, jogar diversos tipos de jogos, desde jogos de tabuleiros a jogos digitais. Eu toco guitarra 🎸! Meu contato com a computação foi há muito tempo, mas eu estudo a área de desenvolvimento de softwares desde 2022. Minha stack atual é NodeJS com Typescript.</p>
 
 ###
 
