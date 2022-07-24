@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left"> 🖥️ Amante de teclogia, 🎮 Amante de games e 🤘 Rockeiro! <br> Gosto de bater um papo sobre o mundo nerd e sobre música, jogar diversos tipos de jogos, desde jogos de tabuleiros a jogos digitais. Eu toco guitarra 🎸! Meu contato com a computação foi há muito tempo, mas eu estudo a área de desenvolvimento de softwares desde 2022. Minha stack atual é NodeJS com Typescript.</p>
+<p align="left"> 🖥️ Amante de teclogia, 🎮 Amante de games e 🤘 Rockeiro! <br> Gosto de bater um papo sobre o mundo nerd e sobre música, jogar diversos tipos de jogos e tocar guitarra 🎸! Meu contato com a computação foi há muito tempo, mas eu estudo a área de desenvolvimento de softwares desde 2022. Minha stack atual é NodeJS com Typescript.</p>
 
 ###
 
