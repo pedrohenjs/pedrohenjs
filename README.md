@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Sou um desenvolverdor back-end do Brasil. Atualmente trabalho em meus próprios projetos, a fim de aprimorar minhas habilidades em desenvolvimento de softwares. Além disso, busco contribuir em projetos open-surce, para aplicar meu conhecimento na resolução de diferentes problemas e expandir minha capacidade analítica.</p>
+<p align="left">Sou um desenvolverdor back-end do Brasil. Atualmente trabalho em meus próprios projetos, a fim de aprimorar minhas habilidades em desenvolvimento de softwares. Além disso, busco contribuir em projetos open-surce, para aplicar meu conhecimento na resolução de diferentes problemas e expandir meus conhecimentos.</p>
 
 ###
 
