@@ -30,7 +30,7 @@
 
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/pedro-henrique-silva-canabrava-aa706623a/" target="_blank">
+  <a href="https://www.linkedin.com/in/pedro-canabrava/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
 </div>
